@@ -24,7 +24,7 @@ body {
     font-weight: bolder;
 }
 
-.container {
+.parte1 {
     margin: auto;
     padding: 40px;
     margin-top: 30px;
@@ -67,4 +67,94 @@ body {
     background-color: white;
 
 
+}
+.titolo {
+    font-weight: bolder;
+    font-size: 30px;
+    padding: 5px 0px;
+    margin: auto;
+}
+
+
+.check{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 20px;
+    vertical-align: middle;
+    border: 1px solid lightgreen;
+    color: lightgreen;
+}
+
+.cross{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 20px;
+    vertical-align: middle;
+    border: 1px solid rgb(255, 0, 0);
+    color: rgb(255, 0, 0);
+}
+
+ul {
+    list-style-type:none;
+}
+
+.edi {
+    background-color: #47adf1;
+    border-radius: 25px;
+    color: white;
+    padding: 5px 10px;
+    vertical-align: middle;
+    font-size: 10px;
+
+}
+
+.goal {
+    background-color: #47adf1;
+    border-radius: 25px;
+    color: white;
+    padding: 5px 10px;
+    vertical-align: middle;
+    font-size: 10px;
+}
+
+.recruit {
+    background-color: #47adf1;
+    border-radius: 25px;
+    color: white;
+    padding: 5px 10px;
+    vertical-align: middle;
+    font-size: 10px;
+}
+
+.mob {
+    background-color: #47adf1;
+    border-radius: 25px;
+    color: white;
+    padding: 5px 10px;
+    vertical-align: middle;
+    font-size: 10px;
+}
+
+.web {
+    background-color: #47adf1;
+    border-radius: 25px;
+    color: white;
+    padding: 5px 10px;
+    vertical-align: middle;
+    font-size: 10px;
+}
+
+.sal {
+    background-color: #47adf1;
+    border-radius: 25px;
+    color: white;
+    padding: 5px 10px;
+    vertical-align: middle;
+    font-size: 10px;
 }

@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#logo {
+    padding: 10px 20px;
+    vertical-align: middle;
+    padding-right: 5px;
+    
+}
+
+#logo-text {
+    font-size: 50px;
+    vertical-align: middle;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
